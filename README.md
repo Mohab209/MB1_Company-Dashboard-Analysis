@@ -75,3 +75,5 @@ This project demonstrates the ability to:
 - Extract actionable business insights
 
 ---
+## Dashboard Preview
+![Dashboard](MB1_Company_Dashboard.png)
